@@ -1,2 +1,2 @@
-# Practising-NumPy
+# Practicing-NumPy
 NumPy practice
